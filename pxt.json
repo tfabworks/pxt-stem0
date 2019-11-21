@@ -1,0 +1,22 @@
+{
+    "name": "pxt-stem",
+    "version": "0.0.2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "uds.ts",
+        "ocr-05w.ts",
+        "temperature.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:6a4b7de1-fee5-46ce-184c-7bbc11243fd9"
+}
